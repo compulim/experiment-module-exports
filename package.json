@@ -1,0 +1,15 @@
+{
+  "name": "experiment-module-exports",
+  "version": "0.0.0-0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npm run bootstrap --ci",
+    "start": "cd packages && cd app && npm start"
+  },
+  "author": "William Wong (https://github.com/compulim)",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "component",
+  "version": "0.0.0-0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Wong (https://github.com/compulim)",
+  "license": "MIT",
+  "exports": {
+    "./hooks/useHelloWorld": "./lib/hooks/useHelloWorld.js"
+  }
+}
